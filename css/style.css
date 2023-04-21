@@ -1553,8 +1553,9 @@ article img.pull-right, article .align-right{
     padding-left: 0;
   }
 	.navbar-brand {
-		margin-top: 10px;
-		border-bottom: none;
+		margin-top: 1px;
+		border-bottom: 1px;
+		position: relative;
 	}
 	.navbar-header {
 		margin-top: 20px;
