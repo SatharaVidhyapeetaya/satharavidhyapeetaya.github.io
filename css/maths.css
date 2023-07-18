@@ -1,0 +1,41 @@
+.quiz-body{
+  background-color: aqua;
+  position: relative;
+}
+
+.flexBox1 {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  
+  width: 100%
+}
+/*
+.mathCard {
+  background: white;
+  border-radius: 0.25rem;
+  padding: 4rem
+}
+
+.questionText {
+  padding-bottom: 2rem
+}
+*/
+table {
+  border-collapse: collapse;
+}
+th, td {
+  border: 2px solid black;
+  padding: 20px;
+  text-align: center;
+}
+
+.svg {
+  height: 24px;
+  width: 24px;
+}
+
+.correctAnswer {
+  color: #34a853;
+  font-size: 1.5rem
+}
